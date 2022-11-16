@@ -1,2 +1,2 @@
-# coding-standard
-SyFramework Coding Standard for PHP_CodeSniffer
+# sy/coding-standard
+SyFramework Coding Standard ruleset for PHP_CodeSniffer.

@@ -1,0 +1,15 @@
+{
+	"name": "sy/coding-standard",
+	"description": "SyFramework Coding Standard for PHP_CodeSniffer",
+	"type": "library",
+	"require": {
+		"slevomat/coding-standard": "^8.6"
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Syone",
+			"email": "syone7@gmail.com"
+		}
+	]
+}
