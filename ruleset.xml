@@ -376,10 +376,6 @@
 
 	<!-- 8. Anonymous Classes -->
 
-	<!-- Anonymous Classes MUST follow the same guidelines and principles as closures in the above section. -->
-	<!-- The opening brace MAY be on the same line as the class keyword so long as the list of implements interfaces does not wrap. If the list of interfaces wraps, the brace MUST be placed on the line immediately following the last interface. -->
-	<rule ref="PSR12.Classes.AnonClassDeclaration" />
-
 	<!-- 9. Arrays -->
 	<rule ref="SlevomatCodingStandard.Arrays.SingleLineArrayWhitespace">
 		<properties>
