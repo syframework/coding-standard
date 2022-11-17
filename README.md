@@ -7,5 +7,5 @@ This coding standard is almost like the [PSR12](https://www.php-fig.org/psr/psr-
 
 ## Tabs for indentation and spaces for alignment
 
-<img width="332" alt="793537" src="https://user-images.githubusercontent.com/1608813/202404207-09884293-00bd-4061-8156-821ef0cf1113.png">
+<img alt="Tabs for indendation and spaces for alignment" src="https://user-images.githubusercontent.com/1608813/202404207-09884293-00bd-4061-8156-821ef0cf1113.png">
 
