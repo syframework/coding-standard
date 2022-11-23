@@ -387,7 +387,10 @@
 	<rule ref="SlevomatCodingStandard.Arrays.MultiLineArrayEndBracketPlacement" />
 
 	<!-- 10. Comments -->
-	<rule ref="Generic.Commenting.DocComment" />
+	<rule ref="Generic.Commenting.DocComment">
+		<exclude name="Generic.Commenting.DocComment.MissingShort" />
+		<exclude name="Generic.Commenting.DocComment.NonParamGroup" />
+	</rule>
 	<rule ref="SlevomatCodingStandard.Commenting.DocCommentSpacing" />
 
 </ruleset>
