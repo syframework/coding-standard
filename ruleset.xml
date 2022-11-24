@@ -3,6 +3,8 @@
 	<description>SyFramework coding standard</description>
 	<config name="installed_paths" value="../../slevomat/coding-standard" />
 
+	<arg name="extensions" value="php" />
+
 	<!-- 2. General -->
 
 	<!-- 2.1 Basic Coding Standard -->
